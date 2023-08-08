@@ -4,53 +4,75 @@
 
 ### Visual Comparisons on RRSD300 dataset
 
-<div align=center>
-    <img src="./images/1_1.png" width="160" height="105"><img src="./images/1_2.png" width="160" height="105"><img src="./images/1_3.png" width="160" height="105"/><img src="./images/1_4.png" width="160" height="105"/><img src="./images/1_5.png" width="160" height="105"/><img src="./images/1_6.png" width="160" height="105"/><img src="./images/1_7.png" width="160" height="105"/>
+<div style="text-align: center;">
+    <img src="./images/1_1.png" style="display: inline-block; width: 112px; margin-bottom: 10px;">
+    <img src="./images/1_2.png" style="display: inline-block; width: 112px; margin-bottom: 10px;">
+    <img src="./images/1_3.png" style="display: inline-block; width: 112px; margin-bottom: 10px;">
+    <img src="./images/1_4.png" style="display: inline-block; width: 112px; margin-bottom: 10px;">
+    <img src="./images/1_5.png" style="display: inline-block; width: 112px; margin-bottom: 10px;">
+    <img src="./images/1_6.png" style="display: inline-block; width: 112px; margin-bottom: 10px;">
+    <img src="./images/1_7.png" style="display: inline-block; width: 112px;">
 </div>
 
-<div align=center>
-    <img src="./images/2_1.png" width="160" height="105"><img src="./images/2_2.png" width="160" height="105"><img src="./images/2_3.png" width="160" height="105"/><img src="./images/2_4.png" width="160" height="105"/><img src="./images/2_5.png" width="160" height="105"/><img src="./images/2_6.png" width="160" height="105"/><img src="./images/2_7.png" width="160" height="105"/>
+
+<div style="text-align: center;">
+    <img src="./images/2_1.png" style="display: inline-block; width: 112px; margin-bottom: 10px;">
+    <img src="./images/2_2.png" style="display: inline-block; width: 112px; margin-bottom: 10px;">
+    <img src="./images/2_3.png" style="display: inline-block; width: 112px; margin-bottom: 10px;">
+    <img src="./images/2_4.png" style="display: inline-block; width: 112px; margin-bottom: 10px;">
+    <img src="./images/2_5.png" style="display: inline-block; width: 112px; margin-bottom: 10px;">
+    <img src="./images/2_6.png" style="display: inline-block; width: 112px; margin-bottom: 10px;">
+    <img src="./images/2_7.png" style="display: inline-block; width: 112px;">
 </div>
 
-<div align=center>
-    <img src="./images/3_1.png" width="160" height="105"><img src="./images/3_2.png" width="160" height="105"><img src="./images/3_3.png" width="160" height="105"/><img src="./images/3_4.png" width="160" height="105"/><img src="./images/3_5.png" width="160" height="105"/><img src="./images/3_6.png" width="160" height="105"/><img src="./images/3_7.png" width="160" height="105"/>
+<div style="text-align: center;">
+    <img src="./images/3_1.png" style="display: inline-block; width: 112px; margin-bottom: 10px;">
+    <img src="./images/3_2.png" style="display: inline-block; width: 112px; margin-bottom: 10px;">
+    <img src="./images/3_3.png" style="display: inline-block; width: 112px; margin-bottom: 10px;">
+    <img src="./images/3_4.png" style="display: inline-block; width: 112px; margin-bottom: 10px;">
+    <img src="./images/3_5.png" style="display: inline-block; width: 112px; margin-bottom: 10px;">
+    <img src="./images/3_6.png" style="display: inline-block; width: 112px; margin-bottom: 10px;">
+    <img src="./images/3_7.png" style="display: inline-block; width: 112px;">
 </div>
 
-<div align=center>
-    <img src="./images/4_1.png" width="160" height="105"><img src="./images/4_2.png" width="160" height="105"><img src="./images/4_3.png" width="160" height="105"/><img src="./images/4_4.png" width="160" height="105"/><img src="./images/4_5.png" width="160" height="105"/><img src="./images/4_6.png" width="160" height="105"/><img src="./images/4_7.png" width="160" height="105"/>
+<div style="text-align: center;">
+    <img src="./images/4_1.png" style="display: inline-block; width: 112px; margin-bottom: 10px;">
+    <img src="./images/4_2.png" style="display: inline-block; width: 112px; margin-bottom: 10px;">
+    <img src="./images/4_3.png" style="display: inline-block; width: 112px; margin-bottom: 10px;">
+    <img src="./images/4_4.png" style="display: inline-block; width: 112px; margin-bottom: 10px;">
+    <img src="./images/4_5.png" style="display: inline-block; width: 112px; margin-bottom: 10px;">
+    <img src="./images/4_6.png" style="display: inline-block; width: 112px; margin-bottom: 10px;">
+    <img src="./images/4_7.png" style="display: inline-block; width: 112px;">
 </div>
 
-<div align=center>
-    <img src="./images/5_1.png" width="160" height="105"><img src="./images/5_2.png" width="160" height="105"><img src="./images/5_3.png" width="160" height="105"/><img src="./images/5_4.png" width="160" height="105"/><img src="./images/5_5.png" width="160" height="105"/><img src="./images/5_6.png" width="160" height="105"/><img src="./images/5_7.png" width="160" height="105"/>
+<div style="text-align: center;">
+    <img src="./images/5_1.png" style="display: inline-block; width: 112px; margin-bottom: 10px;">
+    <img src="./images/5_2.png" style="display: inline-block; width: 112px; margin-bottom: 10px;">
+    <img src="./images/5_3.png" style="display: inline-block; width: 112px; margin-bottom: 10px;">
+    <img src="./images/5_4.png" style="display: inline-block; width: 112px; margin-bottom: 10px;">
+    <img src="./images/5_5.png" style="display: inline-block; width: 112px; margin-bottom: 10px;">
+    <img src="./images/5_6.png" style="display: inline-block; width: 112px; margin-bottom: 10px;">
+    <img src="./images/5_7.png" style="display: inline-block; width: 112px;">
 </div>
 
-<div align=center>
-    <img src="./images/6_1.png" width="160" height="105"><img src="./images/6_2.png" width="160" height="105"><img src="./images/6_3.png" width="160" height="105"/><img src="./images/6_4.png" width="160" height="105"/><img src="./images/6_5.png" width="160" height="105"/><img src="./images/6_6.png" width="160" height="105"/><img src="./images/6_7.png" width="160" height="105"/>
+<div style="text-align: center;">
+    <img src="./images/6_1.png" style="display: inline-block; width: 112px; margin-bottom: 10px;">
+    <img src="./images/6_2.png" style="display: inline-block; width: 112px; margin-bottom: 10px;">
+    <img src="./images/6_3.png" style="display: inline-block; width: 112px; margin-bottom: 10px;">
+    <img src="./images/6_4.png" style="display: inline-block; width: 112px; margin-bottom: 10px;">
+    <img src="./images/6_5.png" style="display: inline-block; width: 112px; margin-bottom: 10px;">
+    <img src="./images/6_6.png" style="display: inline-block; width: 112px; margin-bottom: 10px;">
+    <img src="./images/6_7.png" style="display: inline-block; width: 112px;">
 </div>
 
-<table>
-  <colgroup>
-    <col style="width: 15%;">
-    <col style="width: 14%;">
-    <col style="width: 14%;">
-    <col style="width: 14%;">
-    <col style="width: 14%;">
-    <col style="width: 14%;">
-    <col style="width: 15%;">
-  </colgroup>
-  <tr>
-    <th style="text-align: center;">Hazy Image</th>
-    <th style="text-align: center;">DCP</th>
-    <th style="text-align: center;">AOD-Net</th>
-    <th style="text-align: center;">GridDehazeNet</th>
-    <th style="text-align: center;">4KDehazing</th>
-    <th style="text-align: center;">DehazeFormer</th>
-    <th style="text-align: center;">EMPF-Net (ours)</th>
-  </tr>
-</table>
-
+<span>&nbsp;&nbsp;&nbsp;Hazy Image&nbsp;&nbsp;&nbsp;&nbsp;</span>
+<span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;DCP&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>
+<span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;AOD-Net&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>
+<span>&nbsp;GridDehazeNet&nbsp;</span>
+<span>&nbsp;&nbsp;4KDehazing&nbsp;&nbsp;&nbsp;&nbsp;</span>
+<span>&nbsp;DehazeFormer&nbsp;</span>
+<span>EMPF-Net (ours)</span>
 ### Requirements
-
 ```python
 python 3.8.6
 torch 1.9.0
@@ -61,9 +83,7 @@ timm 0.6.7
 tqdm 4.64.0
 opencv-python 4.5.2.54
 ```
-
 ### Demo
-
 We offer the `demo.py` file to facilitate quick verifications. Kindly access the pre-trained models of our EMPF-Net through the provided links for download.
 
 | Dataset           | Link                                                         | Dataset              | Link                                                         |
@@ -76,27 +96,20 @@ We offer the `demo.py` file to facilitate quick verifications. Kindly access the
 | NH-Haze           | [[Baidu Cloud](https://pan.baidu.com/s/1sg1X64DuCI-2HqV-DTB5sw), code: rsid]   [[Google Drive](https://drive.google.com/file/d/19i4fqAmIihZHP_saUUWUscOFFJFRKnXS/view?usp=sharing)] |                      |                                                              |
 
 Once you have downloaded the models, you can process a remote sensing hazy image using the following example usage.
-
 ```python
 python demo.py --input_image ./data/input/0001.png --target_image ./data/target/0001.png --result_dir ./data/result --expand_factor 128 --result_save True --resume_state ./models/RS-Haze.pth --only_last True --cuda True
 ```
-
 ### Train
-
 Our code is built upon the [BasicSR](https://github.com/XPixelGroup/BasicSR) toolbox, and we express our gratitude for their valuable contributions. Additionally, for those who wish to perform rapid training on their custom datasets, we provide a straightforward training code in the `train.py` file, enabling training of our EMPF-Net. Please refer to the example usage within the file to train the model on your datasets.
-
 ```python
 python train.py --seed 2023 --epoch 200 --batch_size_train 10 --batch_size_val 10 --patch_size_train 512 --patch_size_val 512 --lr 1e-3 --lr_min 1e-8 --train_data ./StateHaze1K-thick/train --val_data ./StateHaze1K-thick/val --resume_state ./model_resume.pth --save_state ./model_best.pth --cuda True --val_frequency 3 --loss_weight 0.04 --only_last False --autocast True --num_works 4
 ```
-
 ### Test
-
 To evaluate our EMPF-Net on your own datasets or publicly available datasets, you can utilize the following example usage to conduct experiments.
 
 ```python
 python test.py --val_data ./Haze1k_thick/test --result_dir ./Haze1k_thick/test/result/ --resume_state ./models/Haze1K-thick.pth --expand_factor 128 --result_save True --cuda True --only_last True --num_works 4
 ```
-
 ### Contact  us
 
 If I have any inquiries or questions regarding our work, please feel free to contact us at [wyb@chd.edu.cn](mailto:wyb@chd.edu.cn).
