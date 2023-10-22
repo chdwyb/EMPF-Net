@@ -1,6 +1,8 @@
-###  An Encoder-free Multi-axis Physics-aware Fusion Network for Remote Sensing Image Dehazing
+###  Encoder-free Multi-axis Physics-aware Fusion Network for Remote Sensing Image Dehazing
 
-**Abstract**: Current methods for remote sensing image dehazing confront noteworthy computational intricacies and yield suboptimal dehazed outputs, thereby circumscribing their pragmatic applicability. To this end, we propose EMPF-Net, a novel encoder-free multi-axis physics-aware fusion network that exhibits both lightweight characteristics and computational efficiency. In our approach, we contend that conventional u-shaped networks allocate substantial computational resources to encode haze-degraded features, which play a subordinate role in the reconstruction process. Consequently, our encoder stages solely incorporate down-sampling operations. To reduce the computational load and enhance generalization capabilities, we devise a multi-axis partial queried learning block (MPQLB) that primarily concentrates on learning feature dimension-wise queries, rather than relying solely on strictly-correlated input feature content. Furthermore, we augment the reconstruction process by incorporating ground truth supervision into each stage via a supervised cross-scale transposed attention module (SCTAM). It calculates attention maps under the guidance of haze-free images, thereby suppressing less informative features to propagate to the subsequent level. In addition, to tackle the challenge of ineffective intral-level feature fusion strategies, which result in insufficient elimination of haze-degraded information and subsequently negatively impact the quality of restored images, we introduce a physics-aware intra-level fusion module (PIFM). This module harnesses a physical inversion model to enhance feature interaction and foster more effective fusion of essential features. We evaluate our proposed EMPF-Net on 12 publicly available datasets. Extensive experimental results substantiate our superiority in terms of both metrical scores and visual quality, despite being equipped with a modest parameter count of 300 K. Our proposed approach surpasses the performance of existing methods and is readily accessible at https://github.com/chdwyb/EMPF-Net.
+[![Paper](https://img.shields.io/badge/Paper-IEEE TGRS-blue)](https://ieeexplore.ieee.org/document/10287960)  [![Project](https://img.shields.io/badge/Project-GitHub-gold)](https://github.com/chdwyb/EMPF-Net)
+
+**Abstract**: Current methods for remote sensing image dehazing confront noteworthy computational intricacies and yield suboptimal dehazed outputs, thereby circumscribing their pragmatic applicability. To this end, we propose EMPF-Net, a novel encoder-free multi-axis physics-aware fusion network that exhibits both light-weighted characteristics and computational efficiency. In our pipeline , we contend that conventional u-shaped networks allocate substantial computational resources to encode haze-degraded features, which play a subordinate role in the reconstruction process. Consequently, our encoder stages solely incorporate down-sampling operations. To improve the representation efficiency and enhance the generalization capabilities, we devise a multi-axis partial queried learning block (MPQLB) that primarily concentrates on learning dimension-wise queries, instead of relying solely on strictly-correlated content of the input features. Furthermore, we augment the reconstruction procedure by incorporating ground truth supervision into each stage via a supervised cross-scale transposed attention module (SCTAM). It calculates attention maps under the guidance of clean images, thereby suppressing less informative features to propagate to the subsequent level. In addition, to address the challenge of ineffective intral-level feature fusion, which result in insufficient elimination of haze-degraded information and negatively impact the quality of reconstructed images, we introduce a physics-aware intra-level fusion module (PIFM). This module harnesses a physical inversion model to facilitate the intra-level feature interaction and alleviate the interference of dehazing-irrelevant information. Our proposed EMPF-Net is evaluated on 12 publicly available datasets, and the experimental results substantiate our superiority in terms of both metrical scores and visual quality, despite being equipped with a modest parameter count of 300 K.
 
 ### Requirements
 ```python
@@ -40,6 +42,25 @@ To evaluate our EMPF-Net on your own datasets or publicly available datasets, yo
 ```python
 python test.py --val_data ./Haze1k_thick/test --result_dir ./Haze1k_thick/test/result/ --resume_state ./models/Haze1K-thick.pth --expand_factor 128 --result_save True --cuda True --only_last True --num_works 4
 ```
+### Dataset
+
+If you intend to conduct experiments on our collected real-world remote sensing hazy dataset, named RRSD300, please download it from [[Baidu Cloud](https://pan.baidu.com/s/1lM9vEvDwgDrCoyPJAW490A), code: rsid] or [[Google Drive](https://drive.google.com/file/d/198dmAL5Vrw1qm_f5t4nW8l1Jmw-HNLuy/view?usp=sharing)].
+
+### Citation
+
+If you find our work helpful for your research, please consider citing our work following this.
+
+```python
+@article{wen2023encoder,
+  title={Encoder-free Multi-axis Physics-aware Fusion Network for Remote Sensing Image Dehazing},
+  author={Wen, Yuanbo and Gao, Tao  and Zhang, Jing and Li, Ziqi and Chen, Ting},
+  journal={IEEE Transactions on Geoscience and Remote Sensing},
+  year={2023},
+  publisher={IEEE},
+  doi={10.1109/TGRS.2023.3325927}
+}
+```
+
 ### Contact  us
 
 If I have any inquiries or questions regarding our work, please feel free to contact us at [wyb@chd.edu.cn](mailto:wyb@chd.edu.cn).
